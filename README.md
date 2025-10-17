@@ -1,8 +1,8 @@
 👋 Hi, I'm Garvit 
 
 🎓 B.Sc. (Hons.) Statistics, Minor in Economics — Ramjas College, University of Delhi
-📊 Passionate about Quant Finance, Risk Modeling, and Statistical Computing
-💻 Python | R | SQL | C++ | Excel | Financial Modeling
+📊 Passionate about Financial Statistics, Risk Modeling, and Statistical Computing
+💻 Python | R | SQL | C++ | Excel | 
 
 🧠 Technical Skills
 
