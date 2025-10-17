@@ -1,37 +1,31 @@
-Hi there 👋
+👋 Hi, I'm Garvit Satija
 
-🎓 Statistics & Economics @ Ramjas College, DU  
-📊 Passionate about Finance, Risk Modeling, and Data Science  
-💻 Python | R | C++ | SQL | Excel | Financial Modeling 
+🎓 B.Sc. (Hons.) Statistics, Minor in Economics — Ramjas College, University of Delhi
+📊 Passionate about Quant Finance, Risk Modeling, and Statistical Computing
+💻 Python | R | SQL | C++ | Excel | Financial Modeling
 
----
+🧠 Technical Skills
 
-### 🚀 My Skills
-- **Programming:** Python, R, SQL  
-- **Finance & Stats:** Risk Modeling, Portfolio Optimization, Econometrics  
-- **Tools:** Excel, Git, Jupyter, Tableau  
+Programming & Tools: Python (NumPy, Pandas, Scikit-learn, Matplotlib), R, SQL, C++, Excel Solver, Tableau, LaTeX, TORA, Git, Jupyter
 
----
+Statistical Methods: Stochastic Processes, Bayesian Inference, Regression, Time Series (ARIMA/GARCH), Optimization, Hypothesis Testing, Econometrics
 
-### 📌 Featured Projects
-- [📈 Portfolio Optimization with VaR](https://github.com/GarvitSatija4/Portfolio_Optimization)
-- [🔍 Trade Reconciliation Project](https://github.com/GarvitSatija4/Advanced-Trade-Reconciliation-Data-Processing-System)
-- ##
+Finance & ML Applications: Risk Modeling, Portfolio Optimization, Credit Risk Classification, Simulation & Forecasting
 
-📫 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/garvit-satija-0b4a57220)
+📈 Featured Projects
 
-<!--
-**GarvitSatija4/GarvitSatija4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Trade Reconciliation Project
 
-Here are some ideas to get you started:
+Developed automated data processing pipelines to reconcile and validate trades using statistical anomaly detection.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧮 Order-Statistic-Based Risk Estimators (Research) (In Progress)
+Designing VaR and Expected Shortfall estimators using advanced order statistics and probabilistic modeling. Targeting journal submission by year-end.
+
+🚚 Logistics Optimization
+Formulated linear programming and network flow models to minimize transportation costs and improve operational efficiency using Python.
+
+🏦 Loan Risk Classification
+Applied logistic regression and clustering to classify borrower profiles and identify default risk patterns.
+
+🍽️ Feeding India NGO — Live Project
+Optimized food distribution through regression analysis and spatial mapping to enhance outreach efficiency.
